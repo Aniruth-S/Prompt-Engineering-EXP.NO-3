@@ -1,14 +1,15 @@
-EX.NO:3 Exploring the different types of prompts- Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
+## EX.NO:3 Exploring the different types of prompts- Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
-Aim: To write the prompts for the following prompt types for 2 different scenarios of Each type.
+## Aim: 
+   To write the prompts for the following prompt types for 2 different scenarios of Each type.
 
-1.Straightforward Prompts
+    1.Straightforward Prompts
 
-2.Tabular Format Prompting
+    2.Tabular Format Prompting
 
-3.Preceding Question Prompting
+    3.Preceding Question Prompting
 
-4.Missing Word Prompting
+    4.Missing Word Prompting
 
 Explanation - Any one use case from Unit 5 or any 2 own use cases with the unit 2 Prompt type
 
@@ -43,5 +44,8 @@ Missing Word Prompting:
 • "In photosynthesis, plants absorb sunlight to produce ____."
 
 OUTPUT:
+**SCENARIO:**
+      1.You are a student preparing for the History Exam.
+      2.You are the researcher who is researching about Stars and Planets.
 
 RESULT: 
